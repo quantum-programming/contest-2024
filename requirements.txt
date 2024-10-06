@@ -1,0 +1,5 @@
+mpmath
+qulacs
+numpy
+qulacsvis
+scipy
